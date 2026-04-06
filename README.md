@@ -53,5 +53,7 @@ pip install rdkit pandas numpy matplotlib seaborn scikit-learn
 ```
 
 **Autora:** Nathalia Bonilla Lozada
+
 **Institución:** Universidad Icesi
+
 **Proyecto:** Tesis de Grado - Química Farmacéutica
